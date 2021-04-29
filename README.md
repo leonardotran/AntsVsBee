@@ -47,7 +47,7 @@ Files in this project:
 * `ucb.py`: Utility functions for CS 61A
 * `assets`: A directory of images and files used by `gui.py`
 * `img`: A directory of images used by `ants_gui.py`
-* `icon8080`: A directory of images used by `README.md`
+* `gifs`: A directory of images used by `README.md`
 
 
 ### 5. Running the game
